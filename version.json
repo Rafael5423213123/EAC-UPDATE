@@ -1,0 +1,11 @@
+{
+    "anticheat": {
+        "version": "1.5.9",
+        "description": "Thanks for buying EAC Anticheat discord.gg/8mSYS8r2Yb !",
+        "changelog": [
+            "Added Anti specating",
+            "Added Anti noclip & Anti godmode ",
+            "Added License System"
+        ]
+    }
+}
